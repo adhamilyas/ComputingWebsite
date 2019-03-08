@@ -113,14 +113,14 @@ Supports Thumbs: true
   width: 20px;
 }
 
-.nivo-controlNav a:hover, .nivo-controlNav a.active {
+/* .nivo-controlNav a:hover, .nivo-controlNav a.active {
   background: #fff none repeat scroll 0 0;
   border-color: #3EC1D5;
   -moz-transform: rotate(180deg);
   -webkit-transform: rotate(180deg);
   -o-transform: rotate(180deg);
   -ms-transform: rotate(180deg);
-}
+} */
 
 /* Normal desktop :992px. */
 
